@@ -19,7 +19,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Iris</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I develop software solutions, user <br className='sm:block hidden' />
+            I develop 3D visuals, user <br className='sm:block hidden' />
             interfaces and web applications
           </p>
         </div>
@@ -30,7 +30,7 @@ const Hero = () => {
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
-            <motion.dev
+            <motion.div
               animate={{
                 y: [0, 24, 0],
               }}
