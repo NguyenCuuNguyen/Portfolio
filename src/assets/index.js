@@ -13,17 +13,22 @@ import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import hadoop from "./tech/hadoop.png";
+import python from "./tech/python.png";
+import openai from "./tech/openai.png";
+import java from "./tech/java.png";
+import django from "./tech/django.png";
+import c from "./tech/c.png";
+import aws from "./tech/aws.jpg";
+import linux from "./tech/linux.png";
 
 import nagarro from "./company/nagarro.png";
 import pace from "./company/pace.png";
 import nyu from "./company/nyu.png";
+import ed from "./company/ed.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -40,20 +45,25 @@ export {
   close,
   css,
   docker,
+  django,
   figma,
   git,
   html,
   javascript,
-  mongodb,
+  java,
   nodejs,
   reactjs,
   redux,
-  tailwind,
-  typescript,
-  threejs,
+  openai,
+  aws,
+  linux,
   nagarro,
   pace,
+  hadoop,
+  c,
+  python,
   nyu,
+  ed,
   carrent,
   jobit,
   tripguide,
