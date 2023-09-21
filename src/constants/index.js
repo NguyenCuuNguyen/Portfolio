@@ -59,6 +59,7 @@ import {
     },
   ];
   
+  //TOCHANGE
   const technologies = [
     {
       name: "HTML 5",
@@ -196,6 +197,7 @@ import {
     },
   ];
   
+  //TOCHANGE
   const projects = [
     {
       name: "Car Rent",
