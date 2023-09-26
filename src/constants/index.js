@@ -185,6 +185,7 @@ import {
         "FLP Playbraries - Code videos of adult/child interactions and researcher-led role-play using protocol to assess adults’ engagement with the installations of the Playbrary, a play space in the library, which influences attitudes and perceptions. Record and analyze post-implementation’s observational data, adult survey responses, and librarian interview data to track how long caregivers and children spent at the Playbrary",
         "Toy Survey - Examine the toy industry to elect major and diverse national retailers, namely Buy Buy Baby, Toys’ R Us, Good Housekeeping, Target, and Walmart. Collect information on toys marketed for infants 6 to 12 months from Buy Buy Baby and 12 to 24 months from Walmart (price, Universal Product Code (UPC), gender-based marketing, electronic versus traditional toy features, educational marketing, and the primary developmental domain addressed namely physical, cognitive, or social).",
         "Collaborate with Penn State team for research and present the poster at Psychology conferences",
+        "Read more about it here: https://docs.google.com/document/d/1FcU7KF9UEEzNLswsNBeHhDlrF0rvtyn4/edit?usp=sharing&ouid=117127143364123307233&rtpof=true&sd=true",
       ],
     },
     {
