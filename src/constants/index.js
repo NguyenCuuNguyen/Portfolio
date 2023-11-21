@@ -123,7 +123,7 @@ import {
       iconBg: "#383E56",
       date: "August 2021 - Present",
       points: [
-        "Design, develop, and A/B test Merck Content Recommendation Engine with Push/pull email notification in AWS.",
+        "Design, develop, and A/B test a Pharmaceutical company's Content Recommendation Engine with Push/pull email notification in AWS.",
         "Manage Vaccine Heatmap application to track global vaccine sentiment and gain Customer Intelligence insights using AWS, ML, CI-CD. Support its delivery and AWS migration that shows 24 GB real time global sentiment of 3 different vaccines, dashboard analytics, and Google trend widget, using SVM ML model and lexicon-based analytics.",
         "Develop back-end, collaborate with a global team and support the release of content tagging application on AWS.",
         "Develop and test Social Map and Pinterest Connector apps for Salesforce Datorama.",
@@ -138,7 +138,7 @@ import {
       date: "May 2021 – August 2021",
       points: [
         "Develop a serverless Alexa application to record and persist users’ data with secure and scalable back-end framework, via AWS Lambda, CloudWatch, DynamoDB, S3, API Gateway, CloudFront and Cognito with Python, JS, HTML, and CSS, following Agile project management and Scrum methodology.",
-        "Develop Back-end for Merck’s Content Tagging Automation Project (CTAP), create Jira SDLC documentation, CloudFormation automatic deployment templates, create automatic tests for API Gateway endpoints.",
+        "Develop Back-end for a Pharmaceutical company’s Content Tagging Automation Project (CTAP), create Jira SDLC documentation, CloudFormation automatic deployment templates, create automatic tests for API Gateway endpoints.",
       ],
     },
     {
@@ -160,8 +160,10 @@ import {
       iconBg: "#997977",
       date: "September 2020 – January 2021",
       points: [
-        "Manage and develop an interactive map-making project using QGIS, to visualize real-time data of Choate pond’s water quality using Xylem censors.",
-        "Read more about it here:${<a href='https://www.notion.so/Visualize-Water-Quality-Crisis-327fc5a151cf497780504054220f18ae?pvs=4'><a>}",
+        "BlueColab aims to advance the technology to detect water quality and create warning systems to inform local communities.",
+        "The team works on operation of real-time sensors and instruments; management, visualization and sonification of data; UX, web, GIS and app development; system cybersecurity and more.",
+        "I managed the GIS team and developed an interactive map using QGIS. Taking Xylem censors' input, the app visualizes real-time data of Choate pond’s water quality: conductivity, salinity, pH, turbidity, dissolved oxyen etc.",
+        // "Read more about it here:${<a href='https://www.notion.so/Visualize-Water-Quality-Crisis-327fc5a151cf497780504054220f18ae?pvs=4'><a>}",
       ],
     },
     {
@@ -171,7 +173,10 @@ import {
       iconBg: "#383E56",
       date: "January 2021 – May 2021",
       points: [
-        "Prepared materials for assessments, video coding; transcribing; assistance with administrative tasks and other operational aspects of study.",
+        "SMART Beginnings project promotes school readiness in low-income families, through a comprehensive approach of primary and secondary prevention strategies of positive parenting techniques",
+        "Support interviews both in peidatric primary care visit at Bellevue Hostpial and in home-based environment of low-income families in the Bronx",
+        "Prepared materials for assessments, video coding and transcribing interview videos;",
+        "Assistance with administrative tasks and other operational aspects of study."
       ],
     },
     {
@@ -188,24 +193,17 @@ import {
       ],
     },
     {
-      title: "Child Psychology Research Assistant",
-      company_name: "NYU School of Medicine",
-      icon: nyu,
-      iconBg: "#383E56",
-      date: "January 2021 – May 2021",
-      points: [
-        "Prepared materials for assessments, video coding; transcribing; assistance with administrative tasks and other operational aspects of study.",
-      ],
-    },
-    {
       title: "Philosophy Teacher",
       company_name: "U.S. Department of Education - TRIO Upward Bound",
       icon: ed,
       iconBg: "#997977",
       date: "September 2018 – January 2019",
       points: [
+        "Inspired by the moral panic of emergent technology's unintended consequences, I designed and taught a course on the philosophical perspective on technology and ethical dilemmas, paired with the British television anthology Black Mirror",
+        "I paired one episode for each reading to illustrate, compare and contrast (e.g., Satre's 'No Exit' vs Nose Dive, Spinoza's 'Ethics' vs White Bear)",
         "Design a 20-week lesson plan, teach a class of high school students from low-income backgrounds.",
-        "Provide students with a philosophical toolbox and critical perspective regarding technology by reading relevant philosophical work and watching the show Black Mirror, which depict a technological dystopian world.",
+        "Provide students with a philosophical toolbox and critical perspective regarding technology;",
+        "Students can understand ethical issues and concepts regarding technology, human nature, and how they intertwine; Articulate the complex relationship between technology and social issues and how they can use the philosophical toolbox to question the status quo; Construct arguments rooted in evidence."
       ],
     },
   ];
