@@ -31,8 +31,8 @@ import nyu from "./company/nyu.png";
 import ed from "./company/ed.png";
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import Alexa from "./Alexa.png";
+import pygame from "./pygame.png";
 
 export {
   logo,
@@ -65,6 +65,6 @@ export {
   nyu,
   ed,
   carrent,
-  jobit,
-  tripguide,
+  Alexa,
+  pygame,
 };
