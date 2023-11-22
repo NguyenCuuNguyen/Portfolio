@@ -77,13 +77,25 @@ const Navbar = () => {
           >
             <a href={`#${nav.id}`}>{nav.title}</a>
           </li>
+          
         ))}
+            {/* <li 
+              key= "cv"
+              className={`${
+                active === "CV" ? "text-white" : "text-secondary"
+              } font-poppins font-medium cursor-point text-[16px]`}
+              onClick={() => {
+                setToggle(!toggle);
+                setActive("CV");
+              }}
+              >
+              <a href={`https://drive.google.com/file/d/1zHH1jydeqPRiZoDIiJ0Z6S0SRIdJ-lJZ/view?usp=sharing`}>CV</a>  </li>  */}
             </ul>
           </div>
         </div> 
       </div>
     </nav>
   )
-}
+} 
 
 export default Navbar

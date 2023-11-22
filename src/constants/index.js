@@ -25,6 +25,7 @@ import {
     pygame,
   } from "../assets";
   
+  // TODO: Add CV to the app
   export const navLinks = [
     {
       id: "about",
@@ -38,15 +39,19 @@ import {
       id: "contact",
       title: "Contact",
     },
+    // {
+    //   id: "cv",
+    //   title: "CV",
+    // },
   ];
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Software Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Python Developer",
       icon: mobile,
     },
     {
@@ -54,7 +59,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Solutions Architect",
       icon: creator,
     },
   ];
@@ -174,7 +179,7 @@ import {
       date: "January 2021 – May 2021",
       points: [
         "SMART Beginnings project promotes school readiness in low-income families, through a comprehensive approach of primary and secondary prevention strategies of positive parenting techniques",
-        "Support interviews both in peidatric primary care visit at Bellevue Hostpial and in home-based environment of low-income families in the Bronx",
+        "Support interviews both in pediatric primary care visit at Bellevue Hospital and in home-based environment of low-income families in the Bronx.",
         "Prepared materials for assessments, video coding and transcribing interview videos;",
         "Assistance with administrative tasks and other operational aspects of study."
       ],
@@ -203,7 +208,7 @@ import {
         "I paired one episode for each reading to illustrate, compare and contrast (e.g., Satre's 'No Exit' vs Nose Dive, Spinoza's 'Ethics' vs White Bear)",
         "Design a 20-week lesson plan, teach a class of high school students from low-income backgrounds.",
         "Provide students with a philosophical toolbox and critical perspective regarding technology;",
-        "Students can understand ethical issues and concepts regarding technology, human nature, and how they intertwine; Articulate the complex relationship between technology and social issues and how they can use the philosophical toolbox to question the status quo; Construct arguments rooted in evidence."
+        "Students can understand ethical issues and concepts regarding technology, human nature, and how they intertwine; Articulate the complex relationship between technology and social issues and how they can use the philosophical toolbox to question the status quo; Construct arguments rooted in evidence.       "
       ],
     },
   ];
@@ -213,8 +218,8 @@ import {
       testimonial:
         "Iris is full of energy which lifts up the entire team. She works hard and makes an genuine efforts on the hardest task. She does not hesitate to acknowledge and own up to her mistakes, which are minor compared to her contribution and progress. She is also modest and willing to improve, despite being one of the top performers in every subject I taught her.",
       name: "Jun Yuan",
-      designation: "Software Engineer - Former Assistant Professor",
-      company: "DataDog",
+      designation: "Assistant Professor",
+      company: "Pace University",
       image: "https://media.licdn.com/dms/image/C5603AQEzVBXQMCNpzw/profile-displayphoto-shrink_800_800/0/1517637043214?e=2147483647&v=beta&t=vnh0xoZmp86iV_L0ZaWcYLWnbrem9LXmjBzHYu7GE-c",
     },
     {

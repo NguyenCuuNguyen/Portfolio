@@ -29,8 +29,6 @@ import nagarro from "./company/nagarro.png";
 import pace from "./company/pace.png";
 import nyu from "./company/nyu.png";
 import ed from "./company/ed.png";
-
-import carrent from "./carrent.png";
 import Alexa from "./Alexa.png";
 import pygame from "./pygame.png";
 
@@ -61,10 +59,9 @@ export {
   pace,
   hadoop,
   c,
+  ed,
   python,
   nyu,
-  ed,
-  carrent,
   Alexa,
   pygame,
 };

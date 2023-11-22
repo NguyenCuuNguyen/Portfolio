@@ -12,6 +12,14 @@ const styles = {
       "text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]",
     sectionSubText:
       "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
+
+    customContainer:
+      "relative flex items-center align-top justify-center max-w-[100%] max-h-[100%] w-500 flex justify-center items-center",
+    
+    customImg:
+      "w-1/2 max-w-[60%] max-h-[60%] float-left inline-block me-10",
+    customTxt:
+      "text-sm/[20px] inline-block float-right ms-20",
   };
   
   export { styles };
