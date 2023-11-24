@@ -31,6 +31,7 @@ import nyu from "./company/nyu.png";
 import ed from "./company/ed.png";
 import Alexa from "./Alexa.png";
 import pygame from "./pygame.png";
+import memory from "./memory.png";
 
 export {
   logo,
@@ -64,4 +65,5 @@ export {
   nyu,
   Alexa,
   pygame,
+  memory,
 };

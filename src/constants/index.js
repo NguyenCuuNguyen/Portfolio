@@ -23,6 +23,7 @@ import {
     c,
     Alexa,
     pygame,
+    memory
   } from "../assets";
   
   // TODO: Add CV to the app
@@ -305,6 +306,70 @@ import {
       image: pygame,
       source_code_link: "https://github.com/NguyenCuuNguyen/Pygame-Experiment",
     },
+    {
+      name: "Memory Game",
+      description:
+        "Memory game with HTML, CSS and Javascript",
+      tags: [
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "green-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: memory,
+      source_code_link: "https://000697814.deployed.codepen.website/",
+      //DEMO link: 
+    },
+    // {
+    //   name: "MapReduce on Single Host with Producer-Consumer",
+    //   description:
+    //     "A simplified version of parallel processing application called MapReduce in Java for single machine, run it on a word count program, based on Producer-Consumer with concurrency support.",
+    //   tags: [
+    //     {
+    //       name: "Java",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "multithreading",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "API",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: 'https://as2.ftcdn.net/v2/jpg/06/43/71/07/1000_F_643710748_B3jU5BzqQnctd6mMdsAbROJhifzI3WsF.jpg',
+    //   source_code_link: "https://github.com/NguyenCuuNguyen/CS488S21/tree/main",
+    // },
+    // {
+    //   name: "Pygame",
+    //   description:
+    //     "A Python combat game experiment. ",
+    //   tags: [
+    //     {
+    //       name: "Python",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Game",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "css",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: pygame,
+    //   source_code_link: "https://github.com/NguyenCuuNguyen/Pygame-Experiment",
+    // },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

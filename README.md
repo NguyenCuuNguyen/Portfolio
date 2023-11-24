@@ -11,3 +11,7 @@ Currently, two official plugins are available:
 
 To run: npm run dev
 
+Documentations:
+- https://tailwindcss.com/
+- 
+

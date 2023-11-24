@@ -5,8 +5,10 @@ import { styles } from "../styles";
 import { fadeIn, textVariant } from "../utils/motion";
 // import { ComputersCanvas } from "./canvas";
 
+
 const Hero = () => {
   return (
+    
     <section className={`relative w-full h-screen mx-auto`}>
       <div
         className={`absolute inset-0 top-[120px]  max-w-7xl mx-auto ${styles.paddingX} flex flex-row items-start gap-5`}
@@ -37,7 +39,7 @@ const Hero = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
               > 
-                <div className="flex absolute inset-y-0 right-0 w-1/2 ms-40 pl-6">
+                <div className="overflow-auto flex absolute inset-y-0 right-0 w-1/2 ms-40 pl-6">
                 <span>
                   <p> 
                   Hello lovely people! </p>
