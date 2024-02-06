@@ -32,6 +32,8 @@ import ed from "./company/ed.png";
 import Alexa from "./Alexa.png";
 import pygame from "./pygame.png";
 import memory from "./memory.png";
+import bot from "./chatbot.jpg";
+
 
 export {
   logo,
@@ -66,4 +68,5 @@ export {
   Alexa,
   pygame,
   memory,
+  bot
 };

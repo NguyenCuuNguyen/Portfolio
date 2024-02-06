@@ -23,7 +23,8 @@ import {
     c,
     Alexa,
     pygame,
-    memory
+    memory,
+    bot
   } from "../assets";
   
   // TODO: Add CV to the app
@@ -233,16 +234,68 @@ import {
     },
     {
       testimonial:
-        "Her natural curiosity and innate love of learning was truly infectious. Iris embodies that wonderful yet rare combination of both cheerleader and coach.",
-      name: "Lynda V. Marinello",
-      designation: "Educator/Mentor",
-      company: "Hamiton Heights Academy",
-      image: "https://pbs.twimg.com/media/ENtqGW4XkAAahWU?format=jpg&name=large",
+        "Iris was the most capable among her peers. Iris was extremely great at remaining calm (even during times when she was extremely stressed), working long hours to hit deadlines (without anyone asking her to do so), and communicating to clients/superiors with ease and honesty. She would quickly and clearly present her project status in meetings and take accountability for scheduling “deep dive” meetings when needed.",
+      name: "Craig Wilkinson",
+      designation: "Co-Founder",
+      company: "Robotyze",
+      image: "https://media.licdn.com/dms/image/C4E03AQGrZ4ELA-B6sg/profile-displayphoto-shrink_800_800/0/1626997981934?e=1706745600&v=beta&t=hkLztwbKvIi0iTTm2XMAXHGuwQ5_yl9MgVT4tbspiKU",
     },
   ];
   
   //TOCHANGE
   const projects = [
+    {
+      name: "1000 Ways to Lie: Logical Fallacies",
+      description:
+        "How many logical fallacy can you identify? The ability to identify logical fallacies increases your immunity against misinformation! Let's match the fallacies with the correct definitions.",
+      tags: [
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "HTML",
+          color: "green-text-gradient",
+        },
+        {
+          name: "CSS",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Figma",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: memory,
+      source_code_link: "https://000697856.deployed.codepen.website",
+      //DEMO link: 
+    },
+    {
+      name: "Google Gemini-pro LLM Chatbot",
+      description:
+        "Gemini-pro chatbot deployed on Streamlit",
+      tags: [
+        {
+          name: "Python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Generative AI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Streamlit",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "Figma",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: bot,
+      source_code_link: "https://gemini-pro-chatbot99.streamlit.app/",
+      //DEMO link: 
+    },
     {
       name: "Alexa Health Diary",
       description:
@@ -299,35 +352,14 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "CSS",
           color: "pink-text-gradient",
         },
       ],
       image: pygame,
       source_code_link: "https://github.com/NguyenCuuNguyen/Pygame-Experiment",
     },
-    {
-      name: "Memory Game",
-      description:
-        "Memory game with HTML, CSS and Javascript",
-      tags: [
-        {
-          name: "javascript",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "HTML",
-          color: "green-text-gradient",
-        },
-        {
-          name: "CSS",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: memory,
-      source_code_link: "https://000697814.deployed.codepen.website/",
-      //DEMO link: 
-    },
+
     // {
     //   name: "MapReduce on Single Host with Producer-Consumer",
     //   description:

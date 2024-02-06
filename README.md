@@ -10,8 +10,15 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 To run: npm run dev
+To build: npm run build
 
 Documentations:
 - https://tailwindcss.com/
 - 
 
+Add project step-by-step:
+- Add info to "C:\Users\Iris Nguyen\Documents\Portfolio\src\constants\index.js"
+
+-Drop image in "C:\Users\Iris Nguyen\Documents\Portfolio\src\assets"
+
+-Edit project image variables in "C:\Users\Iris Nguyen\Documents\Portfolio\src\assets\index.js"

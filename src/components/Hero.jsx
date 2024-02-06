@@ -44,7 +44,11 @@ const Hero = () => {
                   <p> 
                   Hello lovely people! </p>
                   <p>
-                  I am currently working at <a className="underline decoration-pink-500" href="https://www.nagarro.com/en">Nagarro</a>-a growing tech company. Interested in both arts and science, I graduated with a degree in Computer Science and Philosophy at <a className="underline decoration-sky-500" href="https://www.pace.edu/">Pace University</a> Click <a className="underline decoration-pink-500" href="https://drive.google.com/file/d/18-X9AMvCTSyyrW99oZvtTb8LSfu5kxrf/view?usp=sharing">here</a> for my CV. </p> <br></br> Outside of work, I create fun coding and research projects around causes I care about: mental health, misinformation, and education. Things I do for fun include but not limited to dancing, taekwondo, kickboxing, piano, and guitar. Occassionally, I sing at <a className="underline decoration-pink-500" href="https://newyork.theroostnyc.com/">The Roost</a>.<br></br>Check out my <a className="underline decoration-sky-500" href="https://www.behance.net/eyewrist">art</a> and mental health <a className="underline decoration-pink-500" href="https://forms.gle/mt9tB16EAjxGuf7W8">survey</a>!</span>
+                  I am currently working at <a className="underline decoration-pink-500" href="https://www.nagarro.com/en">Nagarro</a>-a growing tech company. Interested in both arts and science, I graduated with a degree in Computer Science and Philosophy at <a className="underline decoration-sky-500" href="https://www.pace.edu/">Pace University</a> Click <a className="underline decoration-pink-500" href="https://drive.google.com/file/d/18-X9AMvCTSyyrW99oZvtTb8LSfu5kxrf/view?usp=sharing">here</a> for my CV. </p> <br></br> Outside of work, I create fun coding and research projects around causes I care about: mental health, misinformation, and education. Things I do for fun include but not limited to dancing, taekwondo, kickboxing, piano, and guitar. Occassionally, I sing at <a className="underline decoration-pink-500" href="https://newyork.theroostnyc.com/">The Roost</a>.<br></br>
+                  
+                  Check out my <a className="underline decoration-sky-500" href="https://www.behance.net/eyewrist">art</a> and mental health <a className="underline decoration-pink-500" href="https://forms.gle/mt9tB16EAjxGuf7W8">survey</a>!!<br></br>
+                  
+                  </span>
                 </div>
                 
                
@@ -57,29 +61,6 @@ const Hero = () => {
 
         </div>
       </div>
-
-
-
-      {/* <ComputersCanvas /> */}
-
-      {/* <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
-        <a href='#about'>
-          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
-            <motion.div
-              animate={{
-                y: [0, 24, 0],
-              }}
-              transition={{
-                duration: 1.5,
-                repeat: Infinity,
-                repeatType: "loop",
-              }}
-              className='w-3 h-3 rounded-full bg-secondary mb-1'
-            />
-          </div>
-        </a>
-      </div> */}
-
     </section>
   );
 };
